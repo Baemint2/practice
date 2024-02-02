@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cedc0f1c-d77b-45fe-a2ca-9d36ffc4fa45" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/think/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/think/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bHk10EKcu93ubZJ8vFEQijPehx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/baeyeong-ug/Desktop/Java/practice/src/aop002",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Array01.executor": "Run",
+    "애플리케이션.Array04.executor": "Run",
+    "애플리케이션.Array05.executor": "Run",
+    "애플리케이션.Array06.executor": "Run",
+    "애플리케이션.Array07.executor": "Run",
+    "애플리케이션.Array172.executor": "Run",
+    "애플리케이션.CarExam.executor": "Run",
+    "애플리케이션.ClassLoaderMain.executor": "Run",
+    "애플리케이션.CompositeDemo.executor": "Run",
+    "애플리케이션.DaySwitchTest.executor": "Run",
+    "애플리케이션.DecoratorPatternDemo.executor": "Run",
+    "애플리케이션.EnumMapTest.executor": "Run",
+    "애플리케이션.FileList.executor": "Run",
+    "애플리케이션.GenericBoxMain.executor": "Run",
+    "애플리케이션.Hello06.executor": "Run",
+    "애플리케이션.HelloIO03.executor": "Run",
+    "애플리케이션.HelloIO04.executor": "Run",
+    "애플리케이션.HelloIO05.executor": "Run",
+    "애플리케이션.Human.executor": "Run",
+    "애플리케이션.Human2.executor": "Run",
+    "애플리케이션.IOExam01.executor": "Run",
+    "애플리케이션.IOExam10.executor": "Run",
+    "애플리케이션.IOExam11.executor": "Run",
+    "애플리케이션.IOExam12.executor": "Run",
+    "애플리케이션.IOExam13.executor": "Run",
+    "애플리케이션.IOExam14.executor": "Run",
+    "애플리케이션.IOExam15.executor": "Run",
+    "애플리케이션.IOExam16.executor": "Run",
+    "애플리케이션.IpAddressExam.executor": "Run",
+    "애플리케이션.ListExam01.executor": "Run",
+    "애플리케이션.ListExam02.executor": "Run",
+    "애플리케이션.ListExam03.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.MapExam.executor": "Run",
+    "애플리케이션.MapExam2.executor": "Run",
+    "애플리케이션.MathRandom.executor": "Run",
+    "애플리케이션.Model.executor": "Run",
+    "애플리케이션.MyRunnableMain.executor": "Run",
+    "애플리케이션.MyRunnableMain2.executor": "Run",
+    "애플리케이션.MyThreadExam.executor": "Run",
+    "애플리케이션.MyThreadExam2.executor": "Run",
+    "애플리케이션.ObjectBoxMain.executor": "Run",
+    "애플리케이션.ObjectInputExam2.executor": "Run",
+    "애플리케이션.ObjectInputOutExam.executor": "Run",
+    "애플리케이션.ObjectOutputExam2.executor": "Run",
+    "애플리케이션.OutputStreamExam01.executor": "Run",
+    "애플리케이션.OutputStreamExam02.executor": "Run",
+    "애플리케이션.SetExam.executor": "Run",
+    "애플리케이션.SetExam2.executor": "Run",
+    "애플리케이션.Start.executor": "Run",
+    "애플리케이션.UserMain.executor": "Run",
+    "애플리케이션.VerySimpleWebServer.executor": "Run",
+    "애플리케이션.defaultInterface.composite.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/aop002" />
+      <recent name="$PROJECT_DIR$/src/think2" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="defaultInterface" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thread" />
+      <recent name="io" />
+      <recent name="Pattern.decorator" />
+      <recent name="defaultInterface.exam03" />
+      <recent name="bus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.VerySimpleWebServer">
+    <configuration name="IpAddressExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.IpAddressExam" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.MyThreadExam" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadExam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.MyThreadExam2" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutputStreamExam02" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam03.outputExam.OutputStreamExam02" />
+      <module name="practice" />
+      <option name="PROGRAM_PARAMETERS" value="/tmp/OutputExam02.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam03.iostream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.UserMain" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerySimpleWebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.VerySimpleWebServer" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="애플리케이션.OutputStreamExam02" />
+      <item itemvalue="애플리케이션.IpAddressExam" />
+      <item itemvalue="애플리케이션.MyThreadExam" />
+      <item itemvalue="애플리케이션.MyThreadExam2" />
+      <item itemvalue="애플리케이션.UserMain" />
+      <item itemvalue="애플리케이션.VerySimpleWebServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.VerySimpleWebServer" />
+        <item itemvalue="애플리케이션.IpAddressExam" />
+        <item itemvalue="애플리케이션.MyThreadExam2" />
+        <item itemvalue="애플리케이션.MyThreadExam" />
+        <item itemvalue="애플리케이션.UserMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="cedc0f1c-d77b-45fe-a2ca-9d36ffc4fa45" name="변경" comment="" />
+      <created>1705879172129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705879172129</updated>
+      <workItem from="1705879173141" duration="1492000" />
+      <workItem from="1705907413401" duration="863000" />
+      <workItem from="1706237224556" duration="854000" />
+      <workItem from="1706750297106" duration="3740000" />
+      <workItem from="1706754912601" duration="1914000" />
+      <workItem from="1706756833892" duration="10001000" />
+      <workItem from="1706776177155" duration="2898000" />
+      <workItem from="1706794921329" duration="16029000" />
+      <workItem from="1706851417867" duration="11425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/io/ObjectOutputExam2.java</url>
+          <line>7</line>
+          <properties class="io.ObjectOutputExam2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/io/UserMain.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
